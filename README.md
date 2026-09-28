@@ -5,7 +5,7 @@ A 2.5D top-down dragon battle prototype featuring a player-controlled Red Dragon
 ## Links
 - Source Code: [https://github.com/bhartinderjoshi/Dragon-Game.git]
 - Windows Build: [https://drive.google.com/drive/folders/1Sln2kyJFPjBnXsavomejrZSK1FIh2F_2?usp=sharing]
-- Gameplay Video: [Video Link]
+- Gameplay Video: [https://youtu.be/WvgGnwUejT0]
 
 ## Unity
 **Unity 6.5 (6000.5.4f1)**
